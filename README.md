@@ -1,6 +1,6 @@
 # Gestión de Clientes y Problemas para iXperts
 
-## Tabla de Contenidos (ToC)
+## Tabla de Contenidos 
 1. [Descripción](#descripción)
 2. [Problema Identificado](#problema-identificado)
 3. [Solución](#solución)
