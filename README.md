@@ -1,5 +1,17 @@
 # Gestión de Clientes y Problemas para iXperts
 
+## Tabla de Contenidos (ToC)
+1. [Descripción](#descripción)
+2. [Problema Identificado](#problema-identificado)
+3. [Solución](#solución)
+4. [Arquitectura](#arquitectura)
+5. [Requerimientos](#requerimientos)
+6. [Instalación](#instalación)
+7. [Configuración](#configuración)
+8. [Uso](#uso)
+9. [Contribución](#contribución)
+10. [Roadmap](#roadmap)
+
 ## Descripción
 Este proyecto tiene como objetivo desarrollar una solución integrada para la gestión de clientes y problemas en la empresa iXperts. La solución propuesta combina una base de datos robusta en Microsoft Access con una interfaz intuitiva en Microsoft Excel para mejorar la eficiencia en la gestión de datos y el seguimiento de problemas.
 
@@ -16,18 +28,6 @@ La solución incluye el desarrollo de:
 ## Arquitectura
 - **Microsoft Excel**: Se utiliza para formularios de entrada de datos y paneles de visualización.
 - **Microsoft Access**: Maneja la base de datos, incluyendo tablas, relaciones y consultas.
-
-## Tabla de Contenidos (ToC)
-1. [Descripción](#descripción)
-2. [Problema Identificado](#problema-identificado)
-3. [Solución](#solución)
-4. [Arquitectura](#arquitectura)
-5. [Requerimientos](#requerimientos)
-6. [Instalación](#instalación)
-7. [Configuración](#configuración)
-8. [Uso](#uso)
-9. [Contribución](#contribución)
-10. [Roadmap](#roadmap)
 
 ## Requerimientos
 - **Servidores de Aplicación**: No se requiere servidor adicional para la versión local. Para la versión en la nube, considere servicios que soporten Access y Excel.
